@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1572459156 source:d:\codeblocks\tema1-final\src\vectori.cpp
+	"vectori.h"
+
+1572459156 d:\codeblocks\tema1-final\include\vectori.h
+	<iostream>
+
+1572460291 source:d:\codeblocks\tema1-final\vectori.cpp
+	"vectori.h"
+
+1572459156 d:\codeblocks\tema1-final\vectori.h
+	<iostream>
+
+1572460375 source:d:\codeblocks\tema1-final\main.cpp
+	<iostream>
+	"vectori.h"
+

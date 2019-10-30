@@ -19,7 +19,7 @@ class vectori{
             double* aduV(); //getter pt v*/
 
 //    vectori(const vectori);
-        friend int main();
+    //    friend int main();
         friend int length(vectori);
         //vectori operator+(const vectori&);
         vectori operator=(vectori);
